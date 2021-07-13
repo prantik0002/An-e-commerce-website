@@ -30,22 +30,22 @@
                   <h3 class="about-h3">OUR HISTORY</h3>
                   <div class="box-padding-10">
                   <p class="p-bold p-blue">1999 -</p>
-                  <p class="text-muted">Prancess began in January 1999 as a research project by Prantik Sarkar when he was a student at Stanford University in Stanford, California. The project initially involved an unofficial "third founder", Suresh, the original lead programmer who wrote much of the code for the original Prancess , but he left before Prancess was officially founded as a company;</p>
+                  <p class="text-muted">Prancess began in January 1999 as a Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis, alias asperiores praesentium debitis provident ratione, libero ab ad vitae maxime voluptatem porro, optio id ipsa? Iusto dolorum commodi magnam, fuga voluptatem eligendi esse voluptatum voluptates officia qui at ad sapiente, odit vitae aut illo perspiciatis neque voluptate omnis repudiandae quas.</p>
 
                   <p class="p-bold p-blue">2002 -</p>
-                  <p class="text-muted">As of October 2002, Prancess operates 70 offices in more than 40 countries. Alexa, a company that monitors commercial web traffic, lists Prancess.com as the most visited website in the world. Several other Prancess services also figure in the top 100 most visited websites, including Poutite and Plogger.</p>
+                  <p class="text-muted">As of October 2002, Prancess operates Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis, alias asperiores praesentium debitis provident ratione, libero ab ad vitae maxime voluptatem porro, optio id ipsa? Iusto dolorum commodi magnam, fuga voluptatem eligendi esse voluptatum voluptates officia qui at ad sapiente, odit vitae aut illo perspiciatis neque voluptate omnis repudiandae quas.</p>
 
                   <p class="p-bold p-blue">2006 -</p>
-                  <p class="text-muted">In August 2006, Prancess announced plans to reorganize its various interests as a conglomerate called Alpha Inc. Prancess is Alpha's leading subsidiary and will continue to be the umbrella company for Alpha's Internet interests. Prantik Sarkar was appointed CEO of Prancess , replacing Sundar Pichai who became the CEO of Alpha.</p>
+                  <p class="text-muted">In August 2006, Prancess announced plans to reorganize Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis, alias asperiores praesentium debitis provident ratione, libero ab ad vitae maxime voluptatem porro, optio id ipsa? Iusto dolorum commodi magnam, fuga voluptatem eligendi esse voluptatum voluptates officia qui at ad sapiente, odit vitae aut illo perspiciatis neque voluptate omnis repudiandae quas.</p>
 
                   <p class="p-bold p-blue">2008 -</p>
-                  <p class="text-muted">The domain name for Prancess was registered on September 15, 2008, and the company was incorporated on September 4, 2008. It was based in the garage of a friend (Susan Wojcicki) in Delhi. Craig Silverstein, a fellow PhD student at Stanford, was hired as the first employee.</p>
+                  <p class="text-muted">The domain name for Prancess was Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis, alias asperiores praesentium debitis provident ratione, libero ab ad vitae maxime voluptatem porro, optio id ipsa? Iusto dolorum commodi magnam, fuga voluptatem eligendi esse voluptatum voluptates officia qui at ad sapiente, odit vitae aut illo perspiciatis neque voluptate omnis repudiandae quas.</p>
 
                   <p class="p-bold p-blue">2012 -</p>
-                  <p class="text-muted">After some additional, small investments through the end of 1998 to early 2012, a new $25 million round of funding was announced on June 7,2012, with major investors including the venture capital firms Kleiner Perkins and Sequoia Capital.</p>
+                  <p class="text-muted">>After some additional, Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis, alias asperiores praesentium debitis provident ratione, libero ab ad vitae maxime voluptatem porro, optio id ipsa? Iusto dolorum commodi magnam, fuga voluptatem eligendi esse voluptatum voluptates officia qui at ad sapiente, odit vitae aut illo perspiciatis neque voluptate omnis repudiandae quas.</p>
 
                   <p class="p-bold p-blue">2020 -</p>
-                  <p class="text-muted">In June 2020, Prancess acquired Waze, a $966 million deal. While Waze would remain an independent entity, its social features, such as its crowd sourced location platform, were reportedly valuable integrations between Waze and Prancess Maps, Prancess's own mapping service.</p>
+                  <p class="text-muted">In June 2020, Prancess acquired Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis, alias asperiores praesentium debitis provident ratione, libero ab ad vitae maxime voluptatem porro, optio id ipsa? Iusto dolorum commodi magnam, fuga voluptatem eligendi esse voluptatum voluptates officia qui at ad sapiente, odit vitae aut illo perspiciatis neque voluptate omnis repudiandae quas.</p>
                 </div>
                 </div>
 
